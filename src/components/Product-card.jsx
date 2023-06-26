@@ -7,7 +7,7 @@ import './css/tarjeta-producto.css'
             <div className="tarjeta-producto">
 
                 <div className="imagen-producto">
-                    <img className='imagen-perfume' src="/images/image-product-desktop.jpg" alt="imagen del producto"  />
+                    <img className='imagen-perfume' src="./images/image-product-desktop.jpg" alt="imagen del producto"  />
                 </div>
                 <div className="info-producto">
                     <h4>PERFUME</h4>
@@ -22,7 +22,7 @@ import './css/tarjeta-producto.css'
                     </div>
                     
                     <button>
-                        <img className='icono-boton' src="/images/icon-cart.svg" alt="icono-carrito" />
+                        <img className='icono-boton' src="./images/icon-cart.svg" alt="icono-carrito" />
                         Add to Card
                     </button>
                 </div>
